@@ -16,5 +16,5 @@
 &nbsp;
 
 <p align="center">
-  Unlocking the Potential of the Web through Open Source UI: Kosori's Commitment"
+  <i>“Unlocking the Potential of the Web through Open Source UI: Kosori's Commitment”</i>
 </p>
